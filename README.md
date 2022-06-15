@@ -14,4 +14,4 @@ Technologies used on this project include:
 ## Typescript
 ## Styled-components
 ## Axios
-#3 Jest
+## Jest
